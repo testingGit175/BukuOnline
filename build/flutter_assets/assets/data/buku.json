@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "judul": "Laskar Pelangi",
+        "penulis": "Andrea Hirata",
+        "penerbit": "Bentang Pustaka",
+        "harga": 85000,
+        "sinopsis": "Novel ini menceritakan perjuangan sepuluh anak dari Belitung dalam mendapatkan pendidikan dan meraih cita-cita mereka.",
+        "gambar": "assets/images/laskar_pelangi.jpg"
+    },
+
+    {
+        "id": 2,
+        "judul": "Bumi",
+        "penulis": "Tere Liye",
+        "penerbit": "Gramedia Pustaka",
+        "harga": 95000,
+        "sinopsis": "Buku ini menceritakan petualangan seorang remaja bernama Raib yang memiliki kemampuan khusus dan memasuki dunia paralel.",
+        "gambar": "assets/images/bumi.jpg"
+    },
+
+    {
+        "id": 3,
+        "judul": "Negeri 5 Menara",
+        "penulis": "Ahmad Fuadi",
+        "penerbit": "Gramedia",
+        "harga": 90000,
+        "sinopsis": "Novel ini menceritakan kehidupan enam santri yang belajar di pesantren dan memiliki impian besar untuk masa depan.",
+        "gambar": "assets/images/negeri_5_menara.jpg"
+    },
+
+    {
+        "id": 4,
+        "judul": "Dilan 1990",
+        "penulis": "Pidi Baiq",
+        "penerbit": "Pastel Books",
+        "harga": 75000,
+        "sinopsis": "Novel ini menceritakan kisah kehidupan remaja dan hubungan Dilan dengan Milea pada tahun 1990.",
+        "gambar": "assets/images/dilan.jpg"
+    },
+
+    {
+        "id": 5,
+        "judul": "Hujan",
+        "penulis": "Tere Liye",
+        "penerbit": "Gramedia Pustaka",
+        "harga": 88000,
+        "sinopsis": "Novel ini menceritakan perjalanan hidup seorang perempuan bernama Lail di masa depan.",
+        "gambar": "assets/images/hujan.jpg"
+    },
+
+    {
+        "id": 6,
+        "judul": "Buku Pemrograman Dasar",
+        "penulis": "Abdul Kadir",
+        "penerbit": "Andi Publisher",
+        "harga": 70000,
+        "sinopsis": "Buku ini membahas dasar-dasar pemrograman komputer untuk membantu pemula memahami konsep pemrograman.",
+        "gambar": "assets/images/dasar_pemrograman.jpg"
+    }
+]
